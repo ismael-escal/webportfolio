@@ -1,0 +1,66 @@
+body {
+	font-family: Merriweather, sans-serif;
+	background-color: #145369 !important;
+}
+
+nav {
+	background-color: #023240 !important;
+}
+
+nav a {
+	color: #c3e6ef !important;
+}
+
+#landing {
+	background-image: linear-gradient(#145369, #041014);
+}
+
+#text-title > h1, #text-title > h4 {
+	color: #c3e6ef;
+}
+
+#projects {
+	background-color: #041014;
+}
+
+#projects h2, #projects h5 {
+	color: #c3e6ef;
+}
+
+.myprojects-card {
+	background-color: #145369 !important;
+}
+
+#tools {
+	background-image: linear-gradient(#041014, #145369);
+}
+
+#tools h2, #tools h3, #tools h4 {
+	color: #c3e6ef;
+}
+
+#contact h2, #contact h4 {
+	color: #c3e6ef;
+}
+
+#maps-container {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  padding-top: 56.25%;
+}
+
+.responsive-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+}
+
+#footer {
+	background-color: #023240 !important;
+	color: #c3e6ef !important
+}
