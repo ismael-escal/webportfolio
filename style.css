@@ -11,6 +11,11 @@ nav a {
 	color: #c3e6ef !important;
 }
 
+#namenavbar {
+	font-family: Abril Fatface;
+	font-size: 2em;
+}
+
 #landing {
 	background-image: linear-gradient(#145369, #041014);
 }
