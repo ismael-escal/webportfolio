@@ -24,12 +24,18 @@ nav a {
 	color: #c3e6ef;
 }
 
+
 #projects {
 	background-color: #041014;
 }
 
 #projects h2, #projects h5 {
 	color: #c3e6ef;
+}
+
+.project-image {
+	max-height: 200px !important;
+  object-fit: cover;
 }
 
 .myprojects-card {
